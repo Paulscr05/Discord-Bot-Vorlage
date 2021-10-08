@@ -1,10 +1,10 @@
 {
-    "token": "ODQ1OTQwNDA2NDgyMTA4NDE3.YKoRZQ.hmg_5CGEY0FMUjxljWEckupKreQ",
+    "token": "TOKEN-HIER-EINFÜGEN",
     "prefix": "!",
     "ownerid": [
-        "746048206798061600"
+        "DEINE-ID-HIER"
     ],
     "mst": 5000,
     "server": "https://discord.gg/Fzk233B",
-    "status": "test"
+    "status": "Bin online!"
 }
